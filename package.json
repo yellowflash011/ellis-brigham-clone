@@ -1,0 +1,23 @@
+{
+  "name": "ellis-brigham-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yellowflash011/ellis-brigham-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yellowflash011/ellis-brigham-clone/issues"
+  },
+  "homepage": "https://github.com/yellowflash011/ellis-brigham-clone#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
